@@ -1,0 +1,18 @@
+*
+{
+    font-family: verdana;
+    padding: 20px;
+}
+
+legend{
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 50px;
+    padding:10px;
+}
+
+#submitBtn{
+    padding: 10px;
+    font-size: 1em;
+}
+
