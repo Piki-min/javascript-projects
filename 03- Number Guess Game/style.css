@@ -1,0 +1,28 @@
+*{
+    padding: 20px;
+    margin: 20px;
+    background: radial-gradient(circle, #f88383, #f3f38d, #a6f8a6);
+    font-family: helvetica;
+}
+div{
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+div,h1,p,label,#userInput,#submit{
+    background: transparent;
+    color: #000000;
+}
+
+label{
+    font-size: 20px;
+}
+
+#submit{
+    padding: auto;
+    font-size: 15px;
+}
+
+#userInput{
+    border: 1px solid black;
+}
