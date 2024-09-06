@@ -20,8 +20,3 @@ A fun and interactive number guessing game built with **HTML**, **CSS**, and **J
 - **HTML**: For structuring the game interface 🌐
 - **CSS**: For styling the game layout and design 🎨
 - **JavaScript**: For game logic and interactivity ⚙️
-
-## 📂 Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Piki-min/javascript-projects.git
